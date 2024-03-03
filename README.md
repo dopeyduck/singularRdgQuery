@@ -13,3 +13,4 @@ The results that it returns are, in tab-delimited format, the following:
   4) The witness(es)
   5) The reading type (if defined)
   6) The variant reading
+  7) The reading of the A-text, if defined, for comparison
